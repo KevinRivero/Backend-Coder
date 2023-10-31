@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Producto B",
+    "description": "Descripción detallada del Producto B",
+    "price": 300,
+    "thumbnail": "Sin imagen",
+    "code": "abc123",
+    "stock": 26,
+    "id": 1
+  },
+  {
+    "title": "Producto A",
+    "description": "Descripción detallada del Producto A",
+    "price": 300,
+    "thumbnail": "Sin imagen",
+    "code": "abc456",
+    "stock": 100,
+    "id": 2
+  },
+  {
+    "title": "Producto C",
+    "description": "Descripción detallada del Producto C",
+    "price": 250,
+    "thumbnail": "Sin imagen",
+    "code": "def789",
+    "stock": 50,
+    "id": 3
+  },
+  {
+    "title": "Producto D",
+    "description": "Descripción detallada del Producto D",
+    "price": 350,
+    "thumbnail": "Sin imagen",
+    "code": "ghi101",
+    "stock": 75,
+    "id": 4
+  },
+  {
+    "title": "Producto E",
+    "description": "Descripción detallada del Producto E",
+    "price": 400,
+    "thumbnail": "Sin imagen",
+    "code": "jkl202",
+    "stock": 60,
+    "id": 5
+  },
+  {
+    "title": "Producto F",
+    "description": "Descripción detallada del Producto F",
+    "price": 275,
+    "thumbnail": "Sin imagen",
+    "code": "mno303",
+    "stock": 90,
+    "id": 6
+  },
+  {
+    "title": "Producto G",
+    "description": "Descripción detallada del Producto G",
+    "price": 320,
+    "thumbnail": "Sin imagen",
+    "code": "pqr404",
+    "stock": 40,
+    "id": 7
+  },
+  {
+    "title": "Producto H",
+    "description": "Descripción detallada del Producto H",
+    "price": 280,
+    "thumbnail": "Sin imagen",
+    "code": "stu505",
+    "stock": 110,
+    "id": 8
+  },
+  {
+    "title": "Producto I",
+    "description": "Descripción detallada del Producto I",
+    "price": 330,
+    "thumbnail": "Sin imagen",
+    "code": "vwx606",
+    "stock": 55,
+    "id": 9
+  },
+  {
+    "title": "Producto J",
+    "description": "Descripción detallada del Producto J",
+    "price": 375,
+    "thumbnail": "Sin imagen",
+    "code": "yz789",
+    "stock": 70,
+    "id": 10
+  }
+]
