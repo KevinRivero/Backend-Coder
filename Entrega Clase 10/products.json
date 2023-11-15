@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Producto B Actualizado",
+    "description": "Descripción detallada del Producto B",
+    "price": 300,
+    "thumbnail": [],
+    "code": "abc123",
+    "stock": 26,
+    "id": 1,
+    "status": true,
+    "category": "Categoria1"
+  },
+  {
+    "title": "Producto A",
+    "description": "Descripción detallada del Producto A",
+    "price": 300,
+    "thumbnail": [],
+    "code": "abc456",
+    "stock": 100,
+    "id": 2,
+    "status": true,
+    "category": "Categoria2"
+  },
+  {
+    "title": "Producto C",
+    "description": "Descripción detallada del Producto C",
+    "price": 250,
+    "thumbnail": [],
+    "code": "def789",
+    "stock": 50,
+    "id": 3,
+    "status": true,
+    "category": "Categoria3"
+  },
+  {
+    "title": "Producto D",
+    "description": "Descripción detallada del Producto D",
+    "price": 350,
+    "thumbnail": [],
+    "code": "ghi101",
+    "stock": 75,
+    "id": 4,
+    "status": true,
+    "category": "Categoria4"
+  },
+  {
+    "title": "Producto E",
+    "description": "Descripción detallada del Producto E",
+    "price": 400,
+    "thumbnail": [],
+    "code": "jkl202",
+    "stock": 60,
+    "id": 5,
+    "status": true,
+    "category": "Categoria5"
+  },
+  {
+    "title": "Producto F",
+    "description": "Descripción detallada del Producto F",
+    "price": 275,
+    "thumbnail": [],
+    "code": "mno303",
+    "stock": 90,
+    "id": 6,
+    "status": true,
+    "category": "Categoria1"
+  },
+  {
+    "title": "Producto G",
+    "description": "Descripción detallada del Producto G",
+    "price": 320,
+    "thumbnail": [],
+    "code": "pqr404",
+    "stock": 40,
+    "id": 7,
+    "status": true,
+    "category": "Categoria2"
+  },
+  {
+    "title": "Producto H",
+    "description": "Descripción detallada del Producto H",
+    "price": 280,
+    "thumbnail": [],
+    "code": "stu505",
+    "stock": 110,
+    "id": 8,
+    "status": true,
+    "category": "Categoria3"
+  },
+  {
+    "title": "Producto I",
+    "description": "Descripción detallada del Producto I",
+    "price": 330,
+    "thumbnail": [],
+    "code": "vwx606",
+    "stock": 55,
+    "id": 9,
+    "status": true,
+    "category": "Categoria4"
+  },
+  {
+    "title": "Producto J",
+    "description": "Descripción detallada del Producto J",
+    "price": 375,
+    "thumbnail": [],
+    "code": "yz789",
+    "stock": 70,
+    "id": 10,
+    "status": true,
+    "category": "Categoria5"
+  }
+]

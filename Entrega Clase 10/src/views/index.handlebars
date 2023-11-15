@@ -1,0 +1,12 @@
+<div>
+    <h1>SISTEMA ACTIVO - usuario {{lastName}} {{firstName}}</h1>
+</div>
+
+{{!-- Cliente de Socket.io  --}}
+{{!-- No va en el main, sino en los otros archivos --}}
+{{!-- Esto hace que cuando instanciamos el cliente, configure solo los datos. Entonces, cuando creamos el cliente, solo lo instanciamos sin pasarle  --}}
+<script src="/socket.io/socket.io.js"></script>
+<script>
+    //aca instanciamos el cliente, sin pasarle ningun dato
+    const socketCliente = io()
+</script>
